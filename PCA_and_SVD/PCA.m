@@ -25,7 +25,3 @@ score = data_centered * eigenvectors_sorted;
 
 % Select the first(or any number you want) principal components
 score_1d = score(:, 1);
-
-
-
-
